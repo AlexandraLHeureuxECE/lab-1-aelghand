@@ -1,6 +1,6 @@
 SE4471 Lab 1 — Web Tic‑Tac‑Toe (Vibe Coding)
-- GitHub Pages: https://github.com/AlexandraLHeureuxECE/lab-1-aelghand/
-
+- GitHub Pages: [https://github.com/AlexandraLHeureuxECE/lab-1-aelghand/
+](https://alexandralheureuxece.github.io/lab-1-aelghand/)
 LLM Tool Disclosure 
 - Tool(s): ChatGPT
 - How used: Generated initial HTML/CSS/JS structure, then iterated to add keyboard controls, win highlighting, and a theme toggle.
